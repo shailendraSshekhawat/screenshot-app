@@ -134,7 +134,7 @@ def main():
         st.write("Analysis Results:")
         st.write(st.session_state.results)
         
-        time.sleep(60)  
+        time.sleep(300)  
 
 if __name__ == "__main__":
     main()
